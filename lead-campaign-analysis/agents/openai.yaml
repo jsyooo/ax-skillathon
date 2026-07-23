@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lead Campaign Analysis"
+  short_description: "Review Google and Naver lead campaigns"
+  default_prompt: "Analyze my Google Ads and Naver Search Ads exports. Keep total budget as the default constraint and give me a human-review action queue."
